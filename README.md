@@ -1,6 +1,6 @@
 # Human TNF Gene Analysis
-### Project Objective  
-This project aims to perform a comprehensive analysis of the Human Tumor Necrosis Factor (TNF) gene sequence using various bioinformatics tools. 
+## Project Objective  
+This project aims to perform a comprehensive analysis of the Human Tumor Necrosis Factor (TNF) gene sequence using various bioinformatics tools such as NCBI, BioEdit, PROMO, GENSCAN, and MEME Suite. This project is a task of the BioinformHER  
 The steps involved include- 
 * Download the Human TNF gene sequence from NCBI and View/Edit it using BioEdit
 * Generate the translated sequence of the gene using BioEdit 
@@ -10,6 +10,10 @@ The steps involved include-
 * Search for functional motifs in the TNF gene sequence using the MEME Suite 
 * Predict the coding/non-coding regions within the gene sequence using the GENSCAN tool 
 * Convert sequence file format from FASTA to PHYLIP in BioEdit 
-* 
+
+## Discussion and Future Directions 
+## How to use this Repository 
+## References 
+
 
 
