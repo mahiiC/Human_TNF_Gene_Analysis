@@ -1,6 +1,6 @@
 # Human TNF Gene Analysis
 ## Project Objective  
-This project aims to perform a comprehensive analysis of the Human Tumor Necrosis Factor (TNF) gene sequence using various bioinformatics tools such as NCBI, BioEdit, PROMO, GENSCAN, and MEME Suite. This mini project is the first task of the BioinformHER Module 1. BioinformHER is an initiative taken by HackBio aimed at introducing young women in STEM on Bioinformatics using simple and easy-to-follow guidelines.
+This project aims to perform a comprehensive analysis of the Human Tumor Necrosis Factor (TNF) gene sequence using various bioinformatics tools such as NCBI, BioEdit, PROMO, GENSCAN, and MEME Suite. This mini project is the first task of the BioinformHER Module 1. BioinformHER is an initiative taken by HackBio aimed at introducing young women in STEM to Bioinformatics using simple and easy-to-follow guidelines.
 ### Steps involved in gene analysis
 * Download the Human TNF gene sequence from NCBI and View/Edit it using BioEdit
 * Generate the translated sequence of the gene using BioEdit 
