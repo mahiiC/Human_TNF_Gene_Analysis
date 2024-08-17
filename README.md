@@ -14,14 +14,14 @@ This project aims to perform a comprehensive analysis of the Human Tumor Necrosi
 * Analyze the sequence nucleotide composition using BioEdit by calculating the frequencies of each nucleotide, and overall GC content. Interpret the results. 
   ![image](https://github.com/user-attachments/assets/939ca183-2c9d-4ece-9860-5633a6d04b93) 
 
-* Identify transcription factor binding sites using the PROMO tool 
+* Identify transcription factor binding sites using the PROMO tool  
   ![image](https://github.com/user-attachments/assets/71ed1e13-5a5c-4920-bf5d-98b82c24b1b9) 
 
 * Search for functional motifs in the TNF gene sequence using the MEME Suite 
-  ![Uploading image.png…]() 
+  ![image](https://github.com/user-attachments/assets/d45d5c1b-298d-46e7-bdc6-4f798ab34964) 
 
 * Predict the coding/non-coding regions within the gene sequence using the GENSCAN tool 
-  ![Uploading image.png…]() 
+  ![image](https://github.com/user-attachments/assets/e4916d60-d238-4953-a0f7-072959f02a5d) 
 
 * Convert sequence file format from FASTA to PHYLIP in BioEdit 
 
