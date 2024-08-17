@@ -6,7 +6,7 @@ This project aims to perform a comprehensive analysis of the Human Tumor Necrosi
   ![image](https://github.com/user-attachments/assets/c7d77834-ce36-43a4-9b02-daf2dc73a798) 
 
 * Generate the translated sequence of the gene using BioEdit 
-  ![image](https://github.com/user-attachments/assets/f69cabd2-0ecb-491d-829f-b151a5bb00a4) 
+  ![image](https://github.com/user-attachments/assets/5a86b0ab-6dc8-4670-94b2-5952ab9cec08) 
 
 * Identify Open Reading Frames (ORFs) present within the gene sequence using the BioEdit ORF Finder Tool and record the start/stop positions, lengths, and protein translations of the ORFs 
   ![image](https://github.com/user-attachments/assets/b97fb25d-2388-429a-a490-f74d6510bfaa) 
